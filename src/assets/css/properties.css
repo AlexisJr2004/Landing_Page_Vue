@@ -1,0 +1,38 @@
+:root {
+	--font-base: "Times New Roman", serif;
+	--font-decorative: "Times New Roman", serif;
+
+	--page-bg: #ffffff;
+	--surface-bg: #ffffff;
+	--surface-soft: #f0f0f0;
+
+	--text-main: #111111;
+	--text-muted: #666666;
+	--text-body: #555555;
+  	--text-legend: #3b59c6;
+
+	--border-light: #ddd;
+	--border-default: #ccc;
+	--border-focus: #888888;
+	--border-error: #dc2626;
+
+	--accent-link: #0066cc;
+	--accent-button: #103ed875;
+	--accent-button-hover: #003cffc8;
+	--success-bg: #e6f4ea;
+	--success-text: #2d7a3a;
+	--error-text: #dc2626;
+
+	--radius-sm: 6px;
+	--radius-md: 8px;
+	--radius-lg: 10px;
+
+	--space-1: 3px;
+	--space-2: 6px;
+	--space-3: 8px;
+	--space-4: 10px;
+	--space-5: 12px;
+	--space-6: 16px;
+	--space-7: 20px;
+	--space-8: 24px;
+}
